@@ -77,7 +77,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Encourages scalable typography and responsive layout planning.
 - Promotes accessibility through proper color contrast and spacing.
   
-# Project Roles And Responsibilities
+# Project Roles and Responsibilities
 ---
 
 ### 🗂️ Project Manager (PM)
